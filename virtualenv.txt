@@ -1,0 +1,7 @@
+sudo apt install virtualenv
+
+virtualenv --no-site-packages --python=python3 xiuyuan_persional_site_venv
+
+#使用virtualenv
+source xiuyuan_persional_site_venv/bin/activate
+
